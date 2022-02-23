@@ -1,0 +1,112 @@
+PMID- 33139420
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210127
+LR  - 20210529
+IS  - 1098-660X (Electronic)
+IS  - 0095-1137 (Print)
+IS  - 0095-1137 (Linking)
+VI  - 59
+IP  - 2
+DP  - 2021 Jan 21
+TI  - Evaluation of the Panbio COVID-19 Rapid Antigen Detection Test Device for the 
+      Screening of Patients with COVID-19.
+LID - 10.1128/JCM.02589-20 [doi]
+LID - e02589-20
+FAU - Fenollar, Florence
+AU  - Fenollar F
+AUID- ORCID: 0000-0002-7517-0173
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+AD  - UMR MEPHI, Aix-Marseille Université, IRD, Assistance Publique-Hôpitaux de Marseille, 
+      Institut Hospitalo-Universitaire Méditerranée-Infection, Marseille, France.
+FAU - Bouam, Amar
+AU  - Bouam A
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+FAU - Ballouche, Mehdi
+AU  - Ballouche M
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+FAU - Fuster, Léa
+AU  - Fuster L
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+AD  - UMR VITROME, Aix-Marseille Université, IRD, Service de Santé des Armées, Assistance 
+      Publique-Hôpitaux de Marseille, Institut Hospitalo-Universitaire 
+      Méditerranée-Infection, Marseille, France.
+FAU - Prudent, Elsa
+AU  - Prudent E
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+FAU - Colson, Philippe
+AU  - Colson P
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+AD  - UMR MEPHI, Aix-Marseille Université, IRD, Assistance Publique-Hôpitaux de Marseille, 
+      Institut Hospitalo-Universitaire Méditerranée-Infection, Marseille, France.
+FAU - Tissot-Dupont, Hervé
+AU  - Tissot-Dupont H
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+AD  - UMR MEPHI, Aix-Marseille Université, IRD, Assistance Publique-Hôpitaux de Marseille, 
+      Institut Hospitalo-Universitaire Méditerranée-Infection, Marseille, France.
+FAU - Million, Matthieu
+AU  - Million M
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+AD  - UMR MEPHI, Aix-Marseille Université, IRD, Assistance Publique-Hôpitaux de Marseille, 
+      Institut Hospitalo-Universitaire Méditerranée-Infection, Marseille, France.
+FAU - Drancourt, Michel
+AU  - Drancourt M
+AUID- ORCID: 0000-0003-0768-1139
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+AD  - UMR MEPHI, Aix-Marseille Université, IRD, Assistance Publique-Hôpitaux de Marseille, 
+      Institut Hospitalo-Universitaire Méditerranée-Infection, Marseille, France.
+FAU - Raoult, Didier
+AU  - Raoult D
+AUID- ORCID: 0000-0002-0633-5974
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France.
+AD  - UMR MEPHI, Aix-Marseille Université, IRD, Assistance Publique-Hôpitaux de Marseille, 
+      Institut Hospitalo-Universitaire Méditerranée-Infection, Marseille, France.
+FAU - Fournier, Pierre-Edouard
+AU  - Fournier PE
+AUID- ORCID: 0000-0001-8463-8885
+AD  - Institut Hospitalo-universitaire Méditerranée Infection, Marseille, France 
+      pierre-edouard.fournier@univ-amu.fr.
+AD  - UMR VITROME, Aix-Marseille Université, IRD, Service de Santé des Armées, Assistance 
+      Publique-Hôpitaux de Marseille, Institut Hospitalo-Universitaire 
+      Méditerranée-Infection, Marseille, France.
+LA  - eng
+PT  - Evaluation Study
+PT  - Letter
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210121
+TA  - J Clin Microbiol
+JT  - Journal of clinical microbiology
+JID - 7505564
+RN  - 0 (Antigens, Viral)
+RN  - 0 (Reagent Kits, Diagnostic)
+SB  - IM
+MH  - Antigens, Viral/*analysis
+MH  - COVID-19/*diagnosis
+MH  - COVID-19 Serological Testing/instrumentation/*methods
+MH  - Humans
+MH  - Immunoassay
+MH  - Nasopharynx/virology
+MH  - *Reagent Kits, Diagnostic
+MH  - SARS-CoV-2/immunology/*isolation & purification
+PMC - PMC8111145
+OTO - NOTNLM
+OT  - *COVID-19
+OT  - *RT-PCR
+OT  - *SARS-CoV-2
+OT  - *antigen assay
+OT  - *diagnosis
+OT  - *rapid antigenic device
+OT  - *rapid diagnosis
+OT  - *sensitivity
+EDAT- 2020/11/04 06:00
+MHDA- 2021/01/28 06:00
+CRDT- 2020/11/03 05:39
+PHST- 2020/11/04 06:00 [pubmed]
+PHST- 2021/01/28 06:00 [medline]
+PHST- 2020/11/03 05:39 [entrez]
+AID - JCM.02589-20 [pii]
+AID - 02589-20 [pii]
+AID - 10.1128/JCM.02589-20 [doi]
+PST - epublish
+SO  - J Clin Microbiol. 2021 Jan 21;59(2):e02589-20. doi: 10.1128/JCM.02589-20. Print 2021 
+      Jan 21.
